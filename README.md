@@ -1,4 +1,3 @@
-```markdown
 # Sentiment Analysis on Twitter Data 🇮🇩
 
 Proyek ini merupakan bagian dari analisis sentimen menggunakan data dari Twitter. Data dikumpulkan melalui scraping dan diproses untuk membangun model machine learning menggunakan TensorFlow/Keras. Proyek ini ditujukan untuk memprediksi sentimen (positif, negatif, netral) dari tweet berbahasa Indonesia.
@@ -6,8 +5,7 @@ Proyek ini merupakan bagian dari analisis sentimen menggunakan data dari Twitter
 ## 📁 Struktur Direktori
 
 ```
-
-sentiment-analysis/
+Submission/
 ├── pelatihan_model.ipynb           # Notebook pelatihan model
 ├── scraping.ipynb                  # Notebook scraping data Twitter
 ├── requirements.txt                # Daftar dependency
@@ -16,11 +14,10 @@ sentiment-analysis/
 ├── Hasil Data Scraping/
 │   └── twitter_data_scraping.csv  # Dataset hasil scraping mentah
 ├── Inference/
-├── sentiment_model.h5          # Model yang telah dilatih
-├── tokenizer.pkl               # Tokenizer untuk preprocessing
-└── label_encoder.pkl           # Label encoder untuk mapping label
-
-````
+    ├── sentiment_model.h5          # Model yang telah dilatih
+    ├── tokenizer.pkl               # Tokenizer untuk preprocessing
+    └── label_encoder.pkl           # Label encoder untuk mapping label
+```
 
 ## 🚀 Cara Menjalankan Proyek
 
@@ -29,7 +26,7 @@ sentiment-analysis/
    ```bash
    git clone https://github.com/username/nama-repo.git
    cd nama-repo
-````
+   ```
 
 2. **Install dependencies:**
 
@@ -69,6 +66,4 @@ MIT License. Lihat file [LICENSE](LICENSE) untuk detail.
 
 ---
 
-✍️ Dibuat oleh Bagus Darmawan – 2025
-
-```
+️🖍️ Dibuat oleh Bagus Darmawan – 2025
