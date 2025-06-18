@@ -5,7 +5,7 @@ Proyek ini merupakan bagian dari analisis sentimen menggunakan data dari Twitter
 ## 📁 Struktur Direktori
 
 ```
-Submission/
+sentiment-analysis/
 ├── pelatihan_model.ipynb           # Notebook pelatihan model
 ├── scraping.ipynb                  # Notebook scraping data Twitter
 ├── requirements.txt                # Daftar dependency
@@ -60,9 +60,6 @@ Dataset terdiri dari tweet hasil scraping dengan keyword tertentu, disimpan dala
 * Proyek ini menggunakan data publik dari Twitter untuk keperluan pembelajaran.
 * Scraping dilakukan sesuai dengan kebijakan penggunaan Twitter.
 
-## 📄 Lisensi
-
-MIT License. Lihat file [LICENSE](LICENSE) untuk detail.
 
 ---
 
