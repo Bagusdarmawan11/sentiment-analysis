@@ -1,3 +1,4 @@
+```markdown
 # Sentiment Analysis on Twitter Data 🇮🇩
 
 Proyek ini merupakan bagian dari analisis sentimen menggunakan data dari Twitter. Data dikumpulkan melalui scraping dan diproses untuk membangun model machine learning menggunakan TensorFlow/Keras. Proyek ini ditujukan untuk memprediksi sentimen (positif, negatif, netral) dari tweet berbahasa Indonesia.
